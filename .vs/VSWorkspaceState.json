@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\DTOs",
+    "\\DTOs\\RequestModels",
+    "\\DTOs\\RequestModels\\Program",
+    "\\Enums",
+    "\\Models"
+  ],
+  "SelectedNode": "\\TaskConsole.csproj",
+  "PreviewInSolutionExplorer": false
+}
